@@ -1,5 +1,4 @@
 # Udacity
-testing waters
 
 I went under Data Anayst Nanodegree from Udacity. I plan to share my course work, project and my findings.
 
